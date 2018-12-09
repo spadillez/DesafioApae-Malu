@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="MaluChatBot" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Malu\\Malu\.chatbot\\Malu\.ChatBot\\Malu\.ChatBot\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\Malu\\Malu\.chatbot\\Malu\.ChatBot\\Malu\.ChatBot\\obj\\Release\\Package\\PackageTmp$" />
-  </parameter>
-</parameters>
