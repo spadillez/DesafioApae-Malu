@@ -1,0 +1,7 @@
+E:\Malu\Malu.chatbot\Malu.ChatBot\Malu.ChatBot.Intent.Saudacao\bin\Debug\Malu.ChatBot.Intent.Saudacao.dll
+E:\Malu\Malu.chatbot\Malu.ChatBot\Malu.ChatBot.Intent.Saudacao\bin\Debug\Malu.ChatBot.Intent.Saudacao.pdb
+E:\Malu\Malu.chatbot\Malu.ChatBot\Malu.ChatBot.Intent.Saudacao\bin\Debug\Malu.ChatBot.Intent.dll
+E:\Malu\Malu.chatbot\Malu.ChatBot\Malu.ChatBot.Intent.Saudacao\bin\Debug\Malu.ChatBot.Intent.pdb
+E:\Malu\Malu.chatbot\Malu.ChatBot\Malu.ChatBot.Intent.Saudacao\obj\Debug\Malu.ChatBot.Intent.Saudacao.csprojResolveAssemblyReference.cache
+E:\Malu\Malu.chatbot\Malu.ChatBot\Malu.ChatBot.Intent.Saudacao\obj\Debug\Malu.ChatBot.Intent.Saudacao.dll
+E:\Malu\Malu.chatbot\Malu.ChatBot\Malu.ChatBot.Intent.Saudacao\obj\Debug\Malu.ChatBot.Intent.Saudacao.pdb
